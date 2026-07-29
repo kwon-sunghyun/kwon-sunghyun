@@ -6,11 +6,11 @@
 
 <p align="left">
 <a href="https://velog.io/@maestroks/posts">
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 </a>
 
 <a href="mailto:maestroks77@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/maestroks77%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
