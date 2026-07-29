@@ -2,8 +2,6 @@
 
 ### Backend Developer
 
-Java • Spring Boot • REST API
-
 운영 안정성과 성능을 고려한 백엔드 시스템 개발에 관심이 있습니다.
 
 ---
@@ -46,7 +44,7 @@ Java • Spring Boot • REST API
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Consul-F24C53?style=for-the-badge&logo=consul&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy"/>
+<img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=groovy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spock-29B6F6?style=for-the-badge"/>
 </p>
 
