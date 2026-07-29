@@ -6,10 +6,6 @@ Java • Spring Boot • REST API
 
 운영 안정성과 성능을 고려한 백엔드 시스템 개발에 관심이 있습니다.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kwon-sunghyun&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
 ---
 
 ## 🚀 About Me
