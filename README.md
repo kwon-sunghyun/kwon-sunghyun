@@ -75,14 +75,6 @@ Redis, Kafka, Docker 기반의 대규모 실시간 채팅 플랫폼을 개발하
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kwon-sunghyun"/>
-</p>
-
----
-
 ## 📝 Velog
 
 프로젝트 개발 과정과 학습 내용을 꾸준히 기록하고 있습니다.
