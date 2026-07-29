@@ -4,6 +4,16 @@
 
 운영 안정성과 성능을 고려한 백엔드 시스템 개발에 관심이 있습니다.
 
+<p align="left">
+<a href="https://velog.io/@maestroks/posts">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
+
+<a href="mailto:maestroks77@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -21,7 +31,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 💪 Tech Stack
 
 ### Experienced
 
@@ -72,27 +82,3 @@ Redis, Kafka, Docker 기반의 대규모 실시간 채팅 플랫폼을 개발하
 - Prometheus & Grafana
 
 ---
-
-## 📝 Velog
-
-프로젝트 개발 과정과 학습 내용을 꾸준히 기록하고 있습니다.
-
-👉 https://velog.io/@maestroks/posts
-
----
-
-## 📫 Contact
-
-<p align="center">
-<a href="https://velog.io/@maestroks/posts">
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-</a>
-
-<a href="mailto:maestroks77@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kwon-sunghyun">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
