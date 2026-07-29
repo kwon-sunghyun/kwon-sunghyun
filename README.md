@@ -10,16 +10,16 @@ Java • Spring Boot • REST API
 
 ## 🚀 About Me
 
-- 💻 Java & Spring Boot 기반 백엔드 개발자입니다.
-- 🚀 **RelayChat** (대규모 실시간 채팅 플랫폼)을 개발하고 있습니다.
-- 📚 개인 프로젝트를 통해 Redis, Kafka, Docker, Nginx 등 백엔드 기술을 학습하고 있습니다.
-- 🎯 성능, 확장성, 운영 안정성을 고려한 신뢰성 있는 백엔드 시스템 개발에 관심이 있습니다.
+- 💻 Java & Spring Boot 기반 **4년 차 백엔드 개발자**입니다.
+- 🏢 SI 환경에서 Hadoop(HDFS) 기반 웹 플랫폼의 백엔드 개발 및 운영 경험을 보유하고 있습니다.
+- 🚀 현재 **RelayChat** 개인 프로젝트를 통해 Redis, Kafka, Docker 기반의 백엔드 기술을 학습하고 있습니다.
+- 🎯 안정적인 서비스 운영과 확장 가능한 시스템 설계에 관심이 있습니다.
 
 ---
 
-## 🎯 목표
+## 🎯 Goal
 
-서비스 환경에서 안정적으로 운영되는 백엔드 시스템을 만들기 위해 Redis, Kafka, Docker 기반의 프로젝트를 꾸준히 개발하며 기록하고 있습니다.
+서비스 환경에서 활용되는 백엔드 기술을 꾸준히 학습하고 프로젝트에 적용하며, 운영 안정성과 확장성을 고려한 시스템을 만들어가고 있습니다.
 
 ---
 
@@ -28,7 +28,7 @@ Java • Spring Boot • REST API
 ### Experienced
 
 <p>
-<img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -52,66 +52,26 @@ Java • Spring Boot • REST API
 
 ---
 
-## 💻 Projects
+## 💻 Current Project
 
-### 🚀 RelayChat (개발 진행 중)
+### 🚀 RelayChat
 
-> ⭐ **Main Project**
+현재 Redis, Kafka, Docker 기반의 **대규모 실시간 채팅 플랫폼**을 개발하며 분산 시스템과 운영 환경을 학습하고 있습니다.
 
-**대규모 실시간 채팅 플랫폼**
-
-Redis, Kafka, Docker 기반으로 대규모 트래픽 환경을 고려한 실시간 채팅 플랫폼을 구현하며, 메시지 신뢰성, 장애 대응, 성능 검증을 직접 학습하고 검증하는 백엔드 프로젝트입니다.
-
-#### Tech
-
-- Java
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- WebSocket
-- MySQL
-- Redis
-- Apache Kafka
-- Docker
-- Nginx
-- Consul
-
-#### 📒 Planned Features
-
-RelayChat의 신뢰성과 운영 환경을 검증하기 위해 다음 기능들을 단계적으로 구현할 예정입니다.
-
-- Message Idempotency — 중복 메시지 처리 방지
-- Failure Recovery Scenarios — 장애 대응 및 복구 검증
-- Monitoring (Micrometer, Prometheus & Grafana) — 운영 상태 모니터링
-- Performance Testing (JMeter) — 성능 측정 및 병목 분석
-- REST API Documentation (Swagger) — API 문서 자동화
-
----
-
-### 💉 Spring-based Integration Testing
-
-Groovy와 Spock을 활용한 Spring Boot 통합 테스트 프로젝트입니다.
-
-#### Tech
-
-- Java
-- Spring Boot
-- Groovy
-- Spock
+➡️ 자세한 내용은 프로젝트 README에서 확인할 수 있습니다.
 
 ---
 
 ## 📚 Learning
 
-### Current Learning
+현재 프로젝트를 진행하며 아래 기술들을 학습하고 있습니다.
 
-- Docker (Inflearn)
-- RelayChat Project
-
-### Planned Learning
-
-- Apache Kafka (Inflearn)
-- MySQL Performance Optimization (Inflearn)
+- Redis
+- Apache Kafka
+- Docker
+- Nginx
+- Groovy & Spock
+- Prometheus & Grafana
 
 ---
 
