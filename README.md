@@ -23,8 +23,7 @@ Java • Spring Boot • REST API
 
 ## 🎯 목표
 
-서비스 환경에서 안정적으로 운영되는 백엔드 시스템을 만들기 위해  
-Redis, Kafka, Docker 기반의 프로젝트를 꾸준히 개발하며 기록하고 있습니다.
+서비스 환경에서 안정적으로 운영되는 백엔드 시스템을 만들기 위해 Redis, Kafka, Docker 기반의 프로젝트를 꾸준히 개발하며 기록하고 있습니다.
 
 ---
 
@@ -57,9 +56,9 @@ Redis, Kafka, Docker 기반의 프로젝트를 꾸준히 개발하며 기록하�
 
 ---
 
-## 🚀 Projects
+## 💻 Projects
 
-### 🚀 RelayChat
+### 🚀 RelayChat (개발 진행 중)
 
 > ⭐ **Main Project**
 
@@ -81,7 +80,7 @@ Redis, Kafka, Docker 기반으로 대규모 트래픽 환경을 고려한 실시
 - Nginx
 - Consul
 
-#### 🚀 Planned Features
+#### 📒 Planned Features
 
 RelayChat의 신뢰성과 운영 환경을 검증하기 위해 다음 기능들을 단계적으로 구현할 예정입니다.
 
@@ -91,11 +90,9 @@ RelayChat의 신뢰성과 운영 환경을 검증하기 위해 다음 기능들�
 - Performance Testing (JMeter) — 성능 측정 및 병목 분석
 - REST API Documentation (Swagger) — API 문서 자동화
 
-🔨 개발 진행 중
-
 ---
 
-### 🧪 Spring-based Integration Testing
+### 💉 Spring-based Integration Testing
 
 Groovy와 Spock을 활용한 Spring Boot 통합 테스트 프로젝트입니다.
 
@@ -105,20 +102,6 @@ Groovy와 Spock을 활용한 Spring Boot 통합 테스트 프로젝트입니다.
 - Spring Boot
 - Groovy
 - Spock
-
----
-
-### 🐳 Docker Practice
-
-Docker와 Docker Compose를 활용한 백엔드 개발 환경 구성 및 실습 프로젝트입니다.
-
-#### Tech
-
-- Docker
-- Docker Compose
-- Spring Boot
-- MySQL
-- Redis
 
 ---
 
@@ -136,14 +119,10 @@ Docker와 Docker Compose를 활용한 백엔드 개발 환경 구성 및 실습 
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=kwon-sunghyun&show_icons=true&rank_icon=github&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
-
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-sunghyun&layout=compact&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=kwon-sunghyun"/>
 </p>
 
 ---
