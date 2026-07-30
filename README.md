@@ -2,8 +2,6 @@
 
 ### Backend Developer
 
-운영 안정성과 성능을 고려한 백엔드 시스템 개발에 관심이 있습니다.
-
 <p align="left">
 <a href="https://velog.io/@maestroks/posts">
 <img src="https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
