@@ -62,9 +62,12 @@
 
 ### 🚀 RelayChat
 
-Redis, Kafka, Docker 기반의 대규모 실시간 채팅 플랫폼을 개발하며 서비스 환경에서 활용되는 기술을 학습하고 있습니다.
+Redis, Kafka, Docker 기반의 실시간 채팅 플랫폼을 개발하며, 서비스 환경에서 활용되는 기술과 분산 시스템 아키텍처를 학습하고 있습니다.
 
-➡️ 자세한 내용은 프로젝트 README에서 확인할 수 있습니다.
+📌 **Repositories**
+
+- 🔗 **Backend:** https://github.com/kwon-sunghyun/relay-chat
+- 🔗 **Frontend:** https://github.com/kwon-sunghyun/relay-chat-client
 
 ---
 
